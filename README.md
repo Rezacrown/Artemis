@@ -1,5 +1,7 @@
 # Artemis - Machine Learning Library for Solidity
 
+![Logo](./images/logo.png)
+
 [![Solidity](https://img.shields.io/badge/Solidity-^0.8.0-blue.svg)](https://docs.soliditylang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Foundry](https://img.shields.io/badge/Built%20with-Foundry-orange.svg)](https://getfoundry.sh/)
